@@ -1,0 +1,10 @@
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EF.Data.dll.config
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EF.Data.dll
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EF.Data.pdb
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EF.Core.dll
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EntityFramework.dll
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EF.Core.pdb
+C:\Users\anuchapa\Desktop\EF\EF.Data\bin\Debug\EntityFramework.xml
+C:\Users\anuchapa\Desktop\EF\EF.Data\obj\Debug\EF.Data.csprojResolveAssemblyReference.cache
+C:\Users\anuchapa\Desktop\EF\EF.Data\obj\Debug\EF.Data.dll
+C:\Users\anuchapa\Desktop\EF\EF.Data\obj\Debug\EF.Data.pdb

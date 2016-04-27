@@ -1,0 +1,5 @@
+C:\Users\anuchapa\Desktop\EF\EF.Core\bin\Debug\EF.Core.dll
+C:\Users\anuchapa\Desktop\EF\EF.Core\bin\Debug\EF.Core.pdb
+C:\Users\anuchapa\Desktop\EF\EF.Core\obj\Debug\EF.Core.csprojResolveAssemblyReference.cache
+C:\Users\anuchapa\Desktop\EF\EF.Core\obj\Debug\EF.Core.dll
+C:\Users\anuchapa\Desktop\EF\EF.Core\obj\Debug\EF.Core.pdb
