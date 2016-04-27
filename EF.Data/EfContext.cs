@@ -11,6 +11,15 @@ namespace EF.Data
         public EfContext()
             : base("name=EIS")
         {
+            Configuration.ProxyCreationEnabled = false;
+
+            // Load navigation properties explicitly (avoid serialization trouble)
+            Configuration.LazyLoadingEnabled = false;
+
+            // Because Web API will perform validation, we don't need/want EF to do so
+            Configuration.ValidateOnSaveEnabled = false;
+
+            Configuration.AutoDetectChangesEnabled = false;
         }
 
         public new IDbSet<TEntity> Set<TEntity>() where TEntity : class
